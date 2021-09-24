@@ -9,6 +9,7 @@
     <link rel="shortcut icon" href="https://ciidept.edu.ar/wp-content/uploads/2017/08/favicon.png" type="image/x-icon" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+    <?php wp_head(); ?>
     <title>Home - Ciidept</title>
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="https://200.45.21.68/" />
@@ -3338,7 +3339,6 @@
                                 </rs-group>
                                 <rs-group id="slider-2-slide-2-layer-37" class="rs-layer-static" data-type="group" data-rsp_ch="on" data-xy="x:c;xo:-210px,-210px,-10px,-10px;y:b;yo:50px,50px,20px,20px;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:288px,288px,188px,188px;h:180px,180px,116px,116px;"
                                     data-onslides="s:1;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sA:6000;" style="z-index:23;">
-<<<<<<< Updated upstream
                                     <div id="imagenes">
                                         <!-- ========= Formacion docente =============== -->
                                         <a target="_blank" title="Formacion docente" href="https://ciidept.edu.ar/formacion-docente/"><img src="https://ciidept.edu.ar/wp-content/uploads/2019/11/docente-azul-300x300.png" data-no-retina="" data-src-rs-ref="https://ciidept.edu.ar/wp-content/uploads/2019/11/docente-azul-300x300.png" style="position: relative;height: 100%;width: 70%;left: 50px;"
@@ -3350,77 +3350,6 @@
                                         <a target="_blank" title="Museo interactivo" href="https://ciidept.edu.ar/museo-interactivo-ciidept/"><img src="https://ciidept.edu.ar/wp-content/uploads/2020/10/boton-MIC-300x300.png" data-no-retina="" data-src-rs-ref="https://ciidept.edu.ar/wp-content/uploads/2020/10/boton-MIC-300x300.png" style="position: relative;height: 100%;width: 70%;left: 50px;"
                                                 width="285" height="175"></a>
                                     </div>
-=======
-                                    <!--
-								-->
-                                    <rs-layer id="slider-2-slide-2-layer-24" class="rs-layer-static" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="l:22;a:inherit;" data-dim="w:288px,288px,188px,188px;h:177px,177px,115px,115px;" data-actions='o:click;a:simplelink;target:_self;url:https://www.educaciontuc.gov.ar/index.php/category/comunicados-de-prensa/;'
-                                        data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:150;sp:1000;sR:150;" data-frame_999="o:0;st:w;sR:4850;" style="z-index:20;cursor:pointer;"><img src="https://ciidept.edu.ar/wp-content/uploads/2021/09/BOTON-AUDIOTECA.png" width="285" height="175" data-no-retina>
-                                    </rs-layer>
-                                    <!--
-
-								-->
-                                    <rs-layer id="slider-2-slide-2-layer-25" class="rs-layer-static" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m,m,t,m;yo:-25px,-25px,10px,10px;" data-text="l:22;a:center;" data-dim="w:['55px','55px','55px','55px'];h:['55px','55px','55px','55px'];"
-                                        data-actions='o:click;a:simplelink;target:_self;url:https://www.educaciontuc.gov.ar/index.php/category/comunicados-de-prensa/;' data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:150;sp:1000;sR:150;"
-                                        data-frame_999="o:0;st:w;sR:4850;" style="z-index:21;cursor:pointer;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2020/07/subenuicon1.png" width="55" height="55" data-no-retina>
-                                    </rs-layer>
-                                    <!--
-
-								-->
-                                    <h3 id="slider-2-slide-2-layer-26" class="rs-layer rs-layer-static" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,m,b,b;yo:25px,25px,10px,10px;" data-text="s:22;l:28;fw:500;a:center;" data-actions='o:click;a:simplelink;target:_self;url:https://www.educaciontuc.gov.ar/index.php/category/comunicados-de-prensa/;'
-                                        data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:150;sp:1000;sR:150;" data-frame_999="o:0;st:w;sR:4850;" style="z-index:22;font-family:Roboto;cursor:pointer;">Comunicados
-                                    </h3>
-                                    <!--
-							-->
-                                </rs-group>
-                                <!--
-
-							-->
-                                <rs-group id="slider-2-slide-2-layer-38" class="rs-layer-static" data-type="group" data-rsp_ch="on" data-xy="x:c;y:b;yo:50px,50px,20px,20px;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:288px,288px,188px,188px;h:180px,180px,116px,116px;" data-onslides="s:1;"
-                                    data-frame_0="o:1;" data-frame_999="o:0;st:w;sA:6000;" style="z-index:15;">
-                                    <!--
-								-->
-                                    <rs-layer id="slider-2-slide-2-layer-30" class="rs-layer-static" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="l:22;a:inherit;" data-dim="w:288px,288px,188px,188px;h:177px,177px,115px,115px;" data-actions='o:click;a:simplelink;target:_blank;url:https://sime.educaciontuc.gov.ar/;'
-                                        data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:900;sp:1000;sR:1150;" data-frame_999="o:0;st:w;sR:3850;" style="z-index:12;cursor:pointer;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2020/07/submenu3.png" width="285" height="175" data-no-retina>
-                                    </rs-layer>
-                                    <!--
-
-								-->
-                                    <rs-layer id="slider-2-slide-2-layer-31" class="rs-layer-static" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m,m,t,m;yo:-25px,-25px,10px,10px;" data-text="l:22;a:center;" data-dim="w:['55px','55px','55px','55px'];h:['55px','55px','55px','55px'];"
-                                        data-actions='o:click;a:simplelink;target:_blank;url:https://sime.educaciontuc.gov.ar/;' data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:900;sp:1000;sR:1150;" data-frame_999="o:0;st:w;sR:3850;" style="z-index:14;cursor:pointer;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2020/07/subenuicon3.png" width="55" height="55" data-no-retina>
-                                    </rs-layer>
-                                    <!--
-
-								-->
-                                    <h3 id="slider-2-slide-2-layer-32" class="rs-layer rs-layer-static" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,m,b,b;yo:25px,25px,10px,10px;" data-text="s:22;l:22;fw:500;a:center;" data-dim="w:55px;" data-actions='o:click;a:simplelink;target:_blank;url:https://sime.educaciontuc.gov.ar/;'
-                                        data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:900;sp:1000;sR:1150;" data-frame_999="o:0;st:w;sR:3850;" style="z-index:13;font-family:Roboto;cursor:pointer;">SIME
-                                    </h3>
-                                    <!--
-							-->
-                                </rs-group>
-                                <!--
-
-							-->
-                                <rs-group id="slider-2-slide-2-layer-39" class="rs-layer-static" data-type="group" data-rsp_ch="on" data-xy="x:c;xo:290px,290px,190px,190px;y:b;yo:50px,50px,20px,20px;" data-text="w:normal;s:20,20,7,7;l:0,0,9,9;" data-dim="w:288px,288px,188px,188px;h:180px,180px,116px,116px;"
-                                    data-onslides="s:1;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sA:6000;" style="z-index:11;">
-                                    <!--
-								-->
-                                    <a id="slider-2-slide-2-layer-33" class="rs-layer rs-layer-static" href="https://www.educaciontuc.gov.ar/index.php/contacto/" target="_self" rel="nofollow" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="l:22;a:inherit;" data-dim="w:288px,288px,188px,188px;h:177px,177px,115px,115px;"
-                                        data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:1650;sp:1000;sR:1650;" data-frame_999="o:0;st:w;sR:3350;" style="z-index:8;cursor:pointer;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2020/07/submenu4.png" width="285" height="175" data-no-retina>
-                                    </a>
-                                    <!--
-
-								-->
-                                    <a id="slider-2-slide-2-layer-34" class="rs-layer rs-layer-static" href="https://www.educaciontuc.gov.ar/index.php/contacto/" target="_self" rel="nofollow" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m,m,t,m;yo:-25px,-25px,10px,10px;" data-text="l:22;a:center;"
-                                        data-dim="w:['55px','55px','55px','55px'];h:['55px','55px','55px','55px'];" data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:1650;sp:1000;sR:1650;" data-frame_999="o:0;st:w;sR:3350;" style="z-index:9;cursor:pointer;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2020/07/subenuicon4.png" width="55" height="55" data-no-retina>
-                                    </a>
-                                    <!--
-
-								--><a id="slider-2-slide-2-layer-35" class="rs-layer rs-layer-static" href="https://www.educaciontuc.gov.ar/index.php/contacto/" target="_self" rel="nofollow" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,m,b,b;yo:25px,25px,10px,10px;"
-                                        data-text="s:22;l:22;fw:500;a:center;" data-onslides="s:1;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:1650;sp:1000;sR:1650;" data-frame_999="o:0;st:w;sR:3350;" style="z-index:10;font-family:Roboto;cursor:pointer;">Consultas 
-								</a>
-                                    <!--
-							-->
->>>>>>> Stashed changes
                                 </rs-group>
                             </rs-static-layers>
                         </rs-module>
@@ -3605,7 +3534,7 @@
                                         <div class="column mcb-column mcb-item-23z7l1par one column_column column-margin-0px">
                                             <div class="column_attr clearfix" style="">
                                                 <h3>Noticias<br>
-                                                    <img src="/wp-content/uploads/2020/07/separador-1.png"></h3>
+                                                    <img src="https://www.educaciontuc.gov.ar/wp-content/uploads/2020/07/separador-1.png"></h3>
                                             </div>
                                         </div>
                                         <div class="column mcb-column mcb-item-jsoxledwg one column_column column-margin-0px">
@@ -3652,15 +3581,15 @@
                                                                 <rs-group id="slider-7-slide-44560-layer-9" class="rs-selectable" data-type="group" data-rsp_ch="on" data-xy="x:l,l,c,c;y:b;yo:-1px,-1px,0,-1px;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:100%;h:150px,150px,130px,130px;" data-frame_0="o:1;"
                                                                     data-frame_999="o:0;st:w;sR:5700;sA:6000;" style="z-index:11;background-color:#ffffff;">
                                                                     <!--
-								--><a id="slider-7-slide-44560-layer-1" class="rs-layer rs-selectable" href="https://www.educaciontuc.gov.ar/index.php/2021/08/17/la-escuela-no256-pcia-de-santa-fe-conmemoro-el-paso-a-la-inmortalidad-del-gral-san-martin-con-un-recorrido-virtual-por-el-museo-libertador-en-francia/"
+								--><a id="slider-7-slide-44560-layer-1" class="rs-layer rs-selectable" href=""
                                                                         target="_self" rel="nofollow" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:10px,10px,7px,7px;" data-text="w:normal;s:28,28,32,32;l:32,32,35,35;fw:500;"
-                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">La Escuela Nº256 Pcia de Santa Fe conmemoró el paso a la inmortalidad del Gral. San Martín con un recorrido virtual por el Museo Libertador en Francia 
+                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Efemérides CIIDEPT | 27 de Octubre: Día del Patrimonio Audiovisual 
 								</a>
                                                                     <!--
 
 								-->
                                                                     <h6 id="slider-7-slide-44560-layer-4" class="rs-layer rs-selectable" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:80px;" data-text="w:normal;s:17,17,23,23;l:23,23,25,25;fw:500,500,400,500;" data-dim="w:100%;"
-                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">Un exalumno de la Escuela Nº256 Provincia de Santa Fe, ubicada en El Colmenar de la ciudad de Las Talitas, es custodio del Museo...
+                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">Efemérides CIIDEPT | 27 de Octubre: Día del Patrimonio Audiovisual...
                                                                     </h6>
                                                                     <!--
 							-->
@@ -3669,27 +3598,27 @@
 
 							-->
                                                                 <rs-layer id="slider-7-slide-44560-layer-0" class="rs-selectable" data-type="image" data-rsp_ch="on" data-xy="x:c;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:['100%','100%','100%','100%'];" data-basealign="slide" data-frame_1="sp:1000;"
-                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-17-at-15.38.35.jpeg" width="1600" height="900" data-c="fullwidth" data-no-retina>
+                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26A-scaled.jpg" width="1600" height="900" data-c="fullwidth" data-no-retina>
                                                                 </rs-layer>
                                                                 <!--
 -->
                                                             </rs-slide>
-                                                            <rs-slide data-key="rs-44549" data-title="Amplían la oferta educativa de Nivel Secundario para jóvenes y adultos en el interior" data-anim="ei:d;eo:d;s:600ms;r:0;t:fade;sl:0;">
-                                                                <img src="//www.educaciontuc.gov.ar/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="Amplían la oferta educativa de Nivel Secundario para jóvenes y adultos en el interior" title="Home" class="rev-slidebg" data-no-retina>
+                                                            <rs-slide data-key="rs-44549" data-title="" data-anim="ei:d;eo:d;s:600ms;r:0;t:fade;sl:0;">
+                                                                <img src="//www.educaciontuc.gov.ar/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="" title="Home" class="rev-slidebg" data-no-retina>
                                                                 <!--
 							-->
                                                                 <rs-group id="slider-7-slide-44549-layer-9" class="rs-selectable" data-type="group" data-rsp_ch="on" data-xy="x:l,l,c,c;y:b;yo:-1px,-1px,0,-1px;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:100%;h:150px,150px,130px,130px;" data-frame_0="o:1;"
                                                                     data-frame_999="o:0;st:w;sR:5700;sA:6000;" style="z-index:11;background-color:#ffffff;">
                                                                     <!--
-								--><a id="slider-7-slide-44549-layer-1" class="rs-layer rs-selectable" href="https://www.educaciontuc.gov.ar/index.php/2021/08/17/amplian-la-oferta-educativa-de-nivel-secundario-para-jovenes-y-adultos-en-el-interior/"
+								--><a id="slider-7-slide-44549-layer-1" class="rs-layer rs-selectable" href=""
                                                                         target="_self" rel="nofollow" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:10px,10px,7px,7px;" data-text="w:normal;s:28,28,32,32;l:32,32,35,35;fw:500;"
-                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Amplían la oferta educativa de Nivel Secundario para jóvenes y adultos en el interior 
+                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Efemérides CIIDEPT | 26 de Octubre: Se decreta la libertad de prensa 
 								</a>
                                                                     <!--
 
 								-->
                                                                     <h6 id="slider-7-slide-44549-layer-4" class="rs-layer rs-selectable" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:80px;" data-text="w:normal;s:17,17,23,23;l:23,23,25,25;fw:500,500,400,500;" data-dim="w:100%;"
-                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">El Ministerio de Educación de Tucumán a cargo de Juan Pablo Lichtmajer puso en marcha dos nuevos Centros Educativos de Nivel Secundario para Jóvenes...
+                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">Efemérides CIIDEPT | 26 de Octubre: Se decreta la libertad de prensa
                                                                     </h6>
                                                                     <!--
 							-->
@@ -3698,27 +3627,27 @@
 
 							-->
                                                                 <rs-layer id="slider-7-slide-44549-layer-0" class="rs-selectable" data-type="image" data-rsp_ch="on" data-xy="x:c;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:['100%','100%','100%','100%'];" data-basealign="slide" data-frame_1="sp:1000;"
-                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-17-at-11.26.50.jpeg" width="1599" height="1200" data-c="fullwidth" data-no-retina>
+                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26-scaled.jpg" width="1599" height="1200" data-c="fullwidth" data-no-retina>
                                                                 </rs-layer>
                                                                 <!--
 -->
                                                             </rs-slide>
-                                                            <rs-slide data-key="rs-44537" data-title="Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso" data-anim="ei:d;eo:d;s:600ms;r:0;t:fade;sl:0;">
-                                                                <img src="//www.educaciontuc.gov.ar/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso" title="Home" class="rev-slidebg" data-no-retina>
+                                                            <rs-slide data-key="rs-44537" data-title="" data-anim="ei:d;eo:d;s:600ms;r:0;t:fade;sl:0;">
+                                                                <img src="//www.educaciontuc.gov.ar/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="" title="Home" class="rev-slidebg" data-no-retina>
                                                                 <!--
 							-->
                                                                 <rs-group id="slider-7-slide-44537-layer-9" class="rs-selectable" data-type="group" data-rsp_ch="on" data-xy="x:l,l,c,c;y:b;yo:-1px,-1px,0,-1px;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:100%;h:150px,150px,130px,130px;" data-frame_0="o:1;"
                                                                     data-frame_999="o:0;st:w;sR:5700;sA:6000;" style="z-index:11;background-color:#ffffff;">
                                                                     <!--
-								--><a id="slider-7-slide-44537-layer-1" class="rs-layer rs-selectable" href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/estudiantes-de-monte-bello-recibieron-netbooks-del-plan-juana-manso/"
+								--><a id="slider-7-slide-44537-layer-1" class="rs-layer rs-selectable" href=""
                                                                         target="_self" rel="nofollow" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:10px,10px,7px,7px;" data-text="w:normal;s:28,28,32,32;l:32,32,35,35;fw:500;"
-                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso 
+                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Efemérides CIIDEPT | 3 de Noviembre: Día del Artista plástico argentino 
 								</a>
                                                                     <!--
 
 								-->
                                                                     <h6 id="slider-7-slide-44537-layer-4" class="rs-layer rs-selectable" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:80px;" data-text="w:normal;s:17,17,23,23;l:23,23,25,25;fw:500,500,400,500;" data-dim="w:100%;"
-                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">En el marco del Plan Federal Juana Manso, el ministro de Educación, <strong>Juan Pablo Lichtmajer</strong>; visitó la comuna rural de Monte Bello, donde realizó...
+                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">Efemérides CIIDEPT | 3 de Noviembre: Día del Artista plástico argentino
                                                                     </h6>
                                                                     <!--
 							-->
@@ -3727,27 +3656,27 @@
 
 							-->
                                                                 <rs-layer id="slider-7-slide-44537-layer-0" class="rs-selectable" data-type="image" data-rsp_ch="on" data-xy="x:c;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:['100%','100%','100%','100%'];" data-basealign="slide" data-frame_1="sp:1000;"
-                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-13-at-16.01.36.jpeg" width="1280" height="853" data-c="fullwidth" data-no-retina>
+                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="https://ciidept.edu.ar/wp-content/uploads/2020/11/123268522_1701816013321434_4354336135989563755_o-scaled-450x267.jpg" width="1280" height="853" data-c="fullwidth" data-no-retina>
                                                                 </rs-layer>
                                                                 <!--
 -->
                                                             </rs-slide>
-                                                            <rs-slide data-key="rs-44520" data-title="Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa" data-anim="ei:d;eo:d;s:600ms;r:0;t:fade;sl:0;">
-                                                                <img src="//www.educaciontuc.gov.ar/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa" title="Home" class="rev-slidebg" data-no-retina>
+                                                            <rs-slide data-key="rs-44520" data-title="" data-anim="ei:d;eo:d;s:600ms;r:0;t:fade;sl:0;">
+                                                                <img src="//www.educaciontuc.gov.ar/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="" title="Home" class="rev-slidebg" data-no-retina>
                                                                 <!--
 							-->
                                                                 <rs-group id="slider-7-slide-44520-layer-9" class="rs-selectable" data-type="group" data-rsp_ch="on" data-xy="x:l,l,c,c;y:b;yo:-1px,-1px,0,-1px;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:100%;h:150px,150px,130px,130px;" data-frame_0="o:1;"
                                                                     data-frame_999="o:0;st:w;sR:5700;sA:6000;" style="z-index:11;background-color:#ffffff;">
                                                                     <!--
-								--><a id="slider-7-slide-44520-layer-1" class="rs-layer rs-selectable" href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/lichtmajer-visito-obras-y-entrego-netbooks-en-la-comuna-los-sarmientos-y-la-tipa/"
+								--><a id="slider-7-slide-44520-layer-1" class="rs-layer rs-selectable" href="#"
                                                                         target="_self" rel="nofollow" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:10px,10px,7px,7px;" data-text="w:normal;s:28,28,32,32;l:32,32,35,35;fw:500;"
-                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa 
+                                                                        data-dim="w:100%;minh:20px,20px,none,20px;" data-frame_999="o:0;st:w;sR:5700;" style="z-index:10;font-family:Dosis;">Efemérides CIIDEPT | 13 de Octubre: Día Nacional del Psicólogo 
 								</a>
                                                                     <!--
 
 								-->
                                                                     <h6 id="slider-7-slide-44520-layer-4" class="rs-layer rs-selectable" data-type="text" data-color="#000000" data-rsp_ch="on" data-xy="xo:10px,10px,7px,7px;yo:80px;" data-text="w:normal;s:17,17,23,23;l:23,23,25,25;fw:500,500,400,500;" data-dim="w:100%;"
-                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">El ministro de Educación, <strong>Juan Pablo Lichtmajer</strong>, visitó la Escuela Agrotécnica de Los Sarmientos en la comuna Los Sarmientos y La Tipa junto a...
+                                                                        data-frame_1="e:power0.inOut;" data-frame_999="o:0;e:none;st:w;sp:0;sR:5700;" style="z-index:9;font-family:Dosis;">Efemérides CIIDEPT | 13 de Octubre: Día Nacional del Psicólogo
                                                                     </h6>
                                                                     <!--
 							-->
@@ -3756,7 +3685,7 @@
 
 							-->
                                                                 <rs-layer id="slider-7-slide-44520-layer-0" class="rs-selectable" data-type="image" data-rsp_ch="on" data-xy="x:c;" data-text="w:normal;s:20,20,15,15;l:0,0,19,19;" data-dim="w:['100%','100%','100%','100%'];" data-basealign="slide" data-frame_1="sp:1000;"
-                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="//www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-13-at-16.57.57.jpeg" width="1280" height="853" data-c="fullwidth" data-no-retina>
+                                                                    data-frame_999="o:0;st:w;sR:5000;" style="z-index:8;background-color:#ffffff;"><img src="https://ciidept.edu.ar/wp-content/uploads/2020/10/13-scaled-450x267.jpg" width="1280" height="853" data-c="fullwidth" data-no-retina>
                                                                 </rs-layer>
                                                                 <!--
 -->
@@ -3879,7 +3808,7 @@
                                         <div class="column mcb-column mcb-item-3wyfhn5m8 one column_column column-margin-0px">
                                             <div class="column_attr clearfix" style="">
                                                 <h3>Efemerides<br>
-                                                    <img src="https://www.educaciontuc.gov.ar/wp-content/uploads/2020/07/separador-1.png"></h3>
+                                                    <img src=""></h3>
                                             </div>
                                         </div>
                                         <div class="column mcb-column mcb-item-qknrxsg1s one column_column column-margin-10px">
@@ -3892,66 +3821,66 @@
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/estudiantes-de-monte-bello-recibieron-netbooks-del-plan-juana-manso/" title="Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-13-at-16.01.36.jpeg" class="ult_thumbnail wp-post-image" alt="Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://ciidept.edu.ar/wp-content/uploads/2020/10/26-scaled.jpg" title="EEfemérides CIIDEPT | 26 de Octubre: Se decreta la libertad de prensa"><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/estudiantes-de-monte-bello-recibieron-netbooks-del-plan-juana-manso/" title="Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso">Estudiantes de Monte Bello recibieron netbooks del plan Juana Manso</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/estudiantes-de-monte-bello-recibieron-netbooks-del-plan-juana-manso/">Leer más...</a></div>
+                                                            <h6><a href="" title="">Efemérides CIIDEPT | 26 de Octubre: Se decreta la libertad de prensa</a></h6>
+                                                            <div class="morelink"><a href="">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/lichtmajer-visito-obras-y-entrego-netbooks-en-la-comuna-los-sarmientos-y-la-tipa/" title="Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-13-at-16.57.57.jpeg" class="ult_thumbnail wp-post-image" alt="Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="" title="Efemérides CIIDEPT | 3 de Noviembre: Día del Artista plástico argentino"><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/11/123268522_1701816013321434_4354336135989563755_o-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/lichtmajer-visito-obras-y-entrego-netbooks-en-la-comuna-los-sarmientos-y-la-tipa/" title="Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa">Lichtmajer visitó obras y entregó netbooks en la comuna Los Sarmientos y La Tipa</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/lichtmajer-visito-obras-y-entrego-netbooks-en-la-comuna-los-sarmientos-y-la-tipa/">Leer más...</a></div>
+                                                            <h6><a href="" title="">Efemérides CIIDEPT | 3 de Noviembre: Día del Artista plástico argentino</a></h6>
+                                                            <div class="morelink"><a href="">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/educacion-anuncio-la-creacion-de-un-centro-de-educacion-fisica-en-aguilares-y-entregaron-netbooks/" title="Educación anunció la creación de un Centro de Educación Física en Aguilares y entregaron netbooks"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-13-at-2.46.44-PM.jpeg" class="ult_thumbnail wp-post-image" alt="Educación anunció la creación de un Centro de Educación Física en Aguilares y entregaron netbooks" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/AUDIOCUENTO-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt=" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/educacion-anuncio-la-creacion-de-un-centro-de-educacion-fisica-en-aguilares-y-entregaron-netbooks/" title="Educación anunció la creación de un Centro de Educación Física en Aguilares y entregaron netbooks">Educación anunció la creación de un Centro de Educación Física en Aguilares y entregaron netbooks</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/13/educacion-anuncio-la-creacion-de-un-centro-de-educacion-fisica-en-aguilares-y-entregaron-netbooks/">Leer más...</a></div>
+                                                            <h6><a href="" title="">AUDIOCUENTO | “Los Amigos” de María Elena Walsh</a></h6>
+                                                            <div class="morelink"><a href="">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/12/historia-de-tucuman-docentes-se-capacitaron-con-el-escritor-marcos-rosenzvaig/" title="Historia de Tucumán: Docentes se capacitaron con el escritor Marcos Rosenzvaig"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-12-at-18.29.11.jpeg" class="ult_thumbnail wp-post-image" alt="Historia de Tucumán: Docentes se capacitaron con el escritor Marcos Rosenzvaig" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26A-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/12/historia-de-tucuman-docentes-se-capacitaron-con-el-escritor-marcos-rosenzvaig/" title="Historia de Tucumán: Docentes se capacitaron con el escritor Marcos Rosenzvaig">Historia de Tucumán: Docentes se capacitaron con el escritor Marcos Rosenzvaig</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/12/historia-de-tucuman-docentes-se-capacitaron-con-el-escritor-marcos-rosenzvaig/">Leer más...</a></div>
+                                                            <h6><a href="" title=""> Efemérides CIIDEPT | 27 de Octubre: Día del Patrimonio Audiovisual</a></h6>
+                                                            <div class="morelink"><a href="">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/12/en-la-escuela-luis-braille-se-entregaron-juegos-y-material-de-estudio-impreso-en-3d/" title="En la Escuela Luis Braille se entregaron juegos y material de estudio impreso en 3D"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-12-at-12.27.38.jpeg" class="ult_thumbnail wp-post-image" alt="En la Escuela Luis Braille se entregaron juegos y material de estudio impreso en 3D" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/12/en-la-escuela-luis-braille-se-entregaron-juegos-y-material-de-estudio-impreso-en-3d/" title="En la Escuela Luis Braille se entregaron juegos y material de estudio impreso en 3D">En la Escuela Luis Braille se entregaron juegos y material de estudio impreso en 3D</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/12/en-la-escuela-luis-braille-se-entregaron-juegos-y-material-de-estudio-impreso-en-3d/">Leer más...</a></div>
+                                                            <h6><a href="" title="">Efemérides CIIDEPT | 26 de Octubre: Se decreta la libertad de prensa</a></h6>
+                                                            <div class="morelink"><a href="">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/11/nuestra-unica-batalla-es-por-la-verdad-contra-la-mentira/" title="Nuestra única batalla es por la verdad contra la mentira"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-11-at-11.36.53-AM.jpeg" class="ult_thumbnail wp-post-image" alt="Nuestra única batalla es por la verdad contra la mentira" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="Nuestra única batalla es por la verdad contra la mentira" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/11/nuestra-unica-batalla-es-por-la-verdad-contra-la-mentira/" title="Nuestra única batalla es por la verdad contra la mentira">Nuestra única batalla es por la verdad contra la mentira</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/11/nuestra-unica-batalla-es-por-la-verdad-contra-la-mentira/">Leer más...</a></div>
+                                                            <h6><a href="#" title="">Efemérides CIIDEPT | 26 de Octubre: Se decreta la libertad de prensa</a></h6>
+                                                            <div class="morelink"><a href="#">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/10/lichtmajer-y-serra-encabezaron-una-mesa-de-trabajo-en-monteros/" title="Lichtmajer y Serra encabezaron una mesa de trabajo en Monteros"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-10-at-12.02.08-PM.jpeg" class="ult_thumbnail wp-post-image" alt="Lichtmajer y Serra encabezaron una mesa de trabajo en Monteros" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="#" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/26-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="Lichtmajer y Serra encabezaron una mesa de trabajo en Monteros" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/10/lichtmajer-y-serra-encabezaron-una-mesa-de-trabajo-en-monteros/" title="Lichtmajer y Serra encabezaron una mesa de trabajo en Monteros">Lichtmajer y Serra encabezaron una mesa de trabajo en Monteros</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/10/lichtmajer-y-serra-encabezaron-una-mesa-de-trabajo-en-monteros/">Leer más...</a></div>
+                                                            <h6><a href="#" title="">Audiocuento | “Todos somos amigos”</a></h6>
+                                                            <div class="morelink"><a href="#">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/09/lichtmajer-visito-la-secundaria-barrio-victoria-para-acompanar-a-la-comunidad-educativa/" title="Lichtmajer visitó la Secundaria Barrio Victoria para acompañar a la comunidad educativa"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-09-at-12.38.28-PM-9.jpeg" class="ult_thumbnail wp-post-image" alt="Lichtmajer visitó la Secundaria Barrio Victoria para acompañar a la comunidad educativa" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-15-at-12.38.43-scaled-450x267.jpeg" class="ult_thumbnail wp-post-image" alt="Lichtmajer visitó la Secundaria Barrio Victoria para acompañar a la comunidad educativa" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/09/lichtmajer-visito-la-secundaria-barrio-victoria-para-acompanar-a-la-comunidad-educativa/" title="Lichtmajer visitó la Secundaria Barrio Victoria para acompañar a la comunidad educativa">Lichtmajer visitó la Secundaria Barrio Victoria para acompañar a la comunidad educativa</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/09/lichtmajer-visito-la-secundaria-barrio-victoria-para-acompanar-a-la-comunidad-educativa/">Leer más...</a></div>
+                                                            <h6><a href="#" title="">Audiocuento | “Todos somos amigos”</a></h6>
+                                                            <div class="morelink"><a href="#">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
-                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/09/refaccionaron-una-escuela-de-los-ralos/" title="Refaccionaron una escuela de Los Ralos"><img width="300" height="200" src="https://www.educaciontuc.gov.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-09-at-9.46.56-AM.jpeg" class="ult_thumbnail wp-post-image" alt="Refaccionaron una escuela de Los Ralos" loading="lazy" /></a></span>
+                                                    <div class="postlist withthumb" style="width:100%;overflow:auto"><span class="thumbmagic" style="width:40%;float:left;"><a href="#" title=""><img width="300" height="200" src="https://ciidept.edu.ar/wp-content/uploads/2020/10/13-scaled-450x267.jpg" class="ult_thumbnail wp-post-image" alt="Refaccionaron una escuela de Los Ralos" loading="lazy" /></a></span>
                                                         <div class="lcp-container" style="margin-left:2%;width:57%;float:left;">
-                                                            <h6><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/09/refaccionaron-una-escuela-de-los-ralos/" title="Refaccionaron una escuela de Los Ralos">Refaccionaron una escuela de Los Ralos</a></h6>
-                                                            <div class="morelink"><a href="https://www.educaciontuc.gov.ar/index.php/2021/08/09/refaccionaron-una-escuela-de-los-ralos/">Leer más...</a></div>
+                                                            <h6><a href="#" title="">Efemérides CIIDEPT | 13 de Octubre: Día Nacional del Psicólogo</a></h6>
+                                                            <div class="morelink"><a href="#">Leer más...</a></div>
                                                         </div>
                                                     </div>
                                                     </br>
@@ -4109,7 +4038,7 @@
                                     <div class="column_attr clearfix">
                                         <div class="epyt-gallery" data-currpage="1" id="epyt_gallery_88548">
                                             <div class="epyt-video-wrapper">
-                                                <iframe width="1220" height="686" src="https://youtu.be/eq3Cg9O0G7I" title="YouTube player"></iframe>
+                                                <iframe width="1220" height="686" src="https://youtu.be/GCgyLV8cQRo" title="YouTube player"></iframe>
                                             </div>
                                         </div>
                                     </div>
@@ -4239,7 +4168,6 @@
             <div class="container">
                 <div class="column one">
 
-<<<<<<< Updated upstream
                     <a id="back_to_top" class="button button_js" href=""><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5z"/>
                       </svg></a>
@@ -4248,14 +4176,6 @@
                         <script>
                             document.write(new Date().getFullYear());
                         </script> CIIDEPT. Todos los derechos reservados </div>
-=======
-                        <a id="back_to_top" class="button button_js" href=""><i class="icon-up-open-big"></i></a>
-                        <div class="copyright">
-                            ©
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script> CIIDEPT. Todos los derechos reservados </div>
->>>>>>> Stashed changes
 
                     <ul class="social"></ul>
                 </div>
@@ -4426,7 +4346,7 @@
     <script type='text/javascript' src='https://www.educaciontuc.gov.ar/wp-includes/js/wp-embed.min.js?ver=5.5.5' id='wp-embed-js'></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 </body>
-
+<?php wp_footer(); ?>
 </html>
 
 <!--
