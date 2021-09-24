@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Eduma Child
+ Theme URI:    http://example.com/eduma-child/
+ Description:  Eduma Child Theme
+ Author:       Thimpress
+ Author URI:   http://thimpress.com
+ Template:     eduma
+ Version:      1.0.0
+ Text Domain:  eduma-child
+*/
+
+.footer-bottom {
+    background-image: url(https://ciidept.edu.ar/wp-content/uploads/2017/08/ciidept_fondo.jpg);
+    top: 0;
+	background-size: cover;
+    background-position: center center;}
